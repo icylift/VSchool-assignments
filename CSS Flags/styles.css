@@ -1,0 +1,266 @@
+h1 {
+  position: absolute;
+  margin-left: 40%;
+}
+
+
+.french-flag {
+  position: absolute;
+  margin-top: 355px;
+  margin-left: 30%;
+  height: 200px;
+  width: 102px;
+  background-color: #002495;
+  border-style: solid;
+
+}
+
+.FF-red {
+  position: absolute;
+  margin-top: 355px;
+  margin-left: 42%;
+  height: 200px;
+  width: 102px;
+  background-color: #ED2938;
+  border-style: solid;
+
+}
+
+.FF-white {
+  position: absolute;
+  margin-top: 355px;
+  margin-left: 36%;
+  height: 200px;
+  width: 102px;
+  background-color: #ffffff;
+  border-style: solid;
+
+}
+
+.german-flag {
+  position: absolute;
+  margin-top: 20%;
+  margin-left: 60%;
+  border-style: solid;
+  width: 350px;
+  height: 70px;
+  background-color: #000;
+
+}
+
+.GF-red {
+  position: absolute;
+  margin-top: 24%;
+  margin-left: 60%;
+  border-style: solid;
+  width: 350px;
+  height: 70px;
+  background-color:#DE0002;
+
+}
+
+.GF-yellow {
+  position: absolute;
+  margin-top: 28%;
+  margin-left: 60%;
+  border-style: solid;
+  width: 350px;
+  height: 70px;
+  background-color:#FFCE00;
+}
+
+.madagascar-flag {
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 29%;
+  border-style: solid;
+  height: 215px;
+  width: 103px;
+  background-color: #ffffff;
+}
+
+.MF-green {
+  position: absolute;
+  margin-top: 46%;
+  margin-left: 35%;
+  border-style: solid;
+  height: 108px;
+  width: 200px;
+  background-color:#007E39;
+
+}
+
+.MF-red {
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 35%;
+  border-style: solid;
+  height: 108px;
+  width: 200px;
+  background-color: #FC3E32;
+
+}
+
+.switzerland-flag {
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 60%;
+  border-style: solid;
+  height: 230px;
+  width: 350px;
+  background-color:#FF0002;
+}
+
+.SF-up {
+  position: absolute;
+  margin-top: 42%;
+  margin-left: 69%;
+  height: 143px;
+  width: 45px;
+  background-color: #ffffff;
+}
+
+.SF-Right {
+  position: absolute;
+  margin-top: 45%;
+  margin-left: 1182px;
+  height: 45px;
+  width: 140px;
+  background-color:#ffffff;
+}
+
+.sweden-flag {
+  position: absolute;
+  margin-top: 60%;
+  margin-left: 30%;
+  height: 230px;
+  width: 350px;
+  background-color:#0269A6;
+  
+}
+
+.SWF-up {
+  position: absolute;
+  margin-top: 65%;
+  margin-left: 30%;
+  height: 45px;
+  width: 350px;
+  background-color: #FECC00;
+}
+.SWF-right {
+  position: absolute;
+  margin-top: 60%;
+  margin-left: 34%;
+  height: 229px;
+  width: 45px;
+  background-color: #FECC00;
+}
+
+.gambia-flag {
+  position: absolute;
+  margin-top: 60% ;
+  margin-left: 60%;
+  height: 230px;
+  width: 350px;
+  border-style: solid;
+}
+
+.GamFlag-red {
+  position: absolute;
+  margin-top: 60% ;
+  margin-left: 60%;
+  height: 75px;
+  width: 350px;
+  border-style: solid;
+  background-color: #CE1127;
+
+}
+
+.GamFlag-blue {
+  position: absolute;
+  margin-top: 65%;
+  margin-left: 60%;
+  height: 55px;
+  width: 350px;
+  border-style: solid;
+  background-color:#0D1D8B;
+
+}
+
+.GamFlag-green {
+  position: absolute;
+  margin-top: 69%;
+  margin-left: 60%;
+  height: 80px;
+  width: 350px;
+  border-style: solid;
+  background-color:#3B7827;
+}
+
+.japanese-flag {
+  position: absolute;
+  margin-top: 80%;
+  margin-left: 30%;
+  height: 230px;
+  width: 350px;
+  background-color:#ffffff;
+  border-style: solid;
+
+}
+
+.japFlag-circle {
+  position: absolute;
+  margin-top: 83%;
+  margin-left: 37%;
+  height: 125px;
+  width: 125px;
+  background-color:#BC022C;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.niger-flag {
+  position: absolute;
+  margin-top: 80%;
+  margin-left: 60%;
+  height: 230px;
+  width: 350px;
+  background-color:#ffffff;
+  border-style: solid;
+
+}
+
+.NF-orange {
+  position: absolute;
+  margin-top: 80%;
+  margin-left: 60%;
+  height: 78px;
+  width: 350px;
+  background-color: #E15307;
+  border-style: solid;
+
+}
+
+.NF-green {
+  position: absolute;
+  margin-top: 89%;
+  margin-left: 60%;
+  height: 78px;
+  width: 350px;
+  background-color: #10AF2A;
+  border-style: solid;
+
+}
+
+.NF-circle {
+  position: absolute;
+  margin-top: 85%;
+  margin-left: 68%;
+  height: 68px;
+  width: 68px;
+  background-color:#E15307;
+  border-radius: 50%;
+  display: inline-block;
+
+
+}
